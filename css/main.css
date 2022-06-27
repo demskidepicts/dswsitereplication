@@ -315,16 +315,19 @@ p{
     margin-top: 30px;
     margin-left: 40px;
 }
-
 .footer{
     background-color: #ffffff;
     width: 100%;
     padding-left: 188px;
     padding-top: 20px;
     padding-right: 148px;
-    padding-bottom: 100px;
+    padding-bottom: 2px;
+    line-height: 1.8;
 }
-#footer{
-    margin: 1%;
+footer{
+    text-align: center;
+    background-color:#ffffff;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
 }
 
